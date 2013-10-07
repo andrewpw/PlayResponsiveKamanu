@@ -1,0 +1,52 @@
+body {
+  padding-top: 81px;
+}
+
+.page-picture{
+    background-color: rgb(0,0,0);
+    background-image:url(../images/pueo-canoes-front.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 385px;
+}
+
+
+.navbar-carbon{
+  background-image:url(../images/bg-carbon.jpg);
+  background-size: repeat;
+}
+
+.navbar-brand{
+  padding: 0 45px 0 95px;
+}
+
+li:last-child{
+  color: #E5EDDC;
+  border-right: dotted;
+  border-width: 1px;
+}
+.navbar-nav>li>a{
+  font-family: Lucida Grande, Lucida Sans,Verdana, Arial, sans-serif;
+  color: #E5EDDC;
+  border-left: dotted;
+  font-size: 1.1em;
+  font-weight: bold;
+  line-height: 3.5em;
+  color: #E5EDDC;
+  padding: 25px 0px 0 0px;
+  border-width: thin;
+  width: 130px;
+  text-align: center;
+  background-color: transparent;
+}
+.canoes{
+  background-color: #000;
+  text-align: center;
+  padding:1em 0;
+}
+
+.canoes h2{
+  font-family: Georgia, serif;
+  color: #666;
+  font-size: 3em;
+font-weight: 700;
